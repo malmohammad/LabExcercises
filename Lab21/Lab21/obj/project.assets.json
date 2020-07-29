@@ -6076,11 +6076,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mak_a\\source\\repos\\Lab21\\Lab21\\Lab21.csproj",
+      "projectUniqueName": "C:\\Users\\mak_a\\source\\repo.02\\Lab21\\Lab21\\Lab21.csproj",
       "projectName": "Lab21",
-      "projectPath": "C:\\Users\\mak_a\\source\\repos\\Lab21\\Lab21\\Lab21.csproj",
+      "projectPath": "C:\\Users\\mak_a\\source\\repo.02\\Lab21\\Lab21\\Lab21.csproj",
       "packagesPath": "C:\\Users\\mak_a\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mak_a\\source\\repos\\Lab21\\Lab21\\obj\\",
+      "outputPath": "C:\\Users\\mak_a\\source\\repo.02\\Lab21\\Lab21\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mak_a\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -21,7 +21,6 @@ namespace Lab22.Controllers
                 new Movie("The Hustle", TypeGenre.Comedy),
                 new Movie("The Invisible Man", TypeGenre.Horror),
                 new Movie("WALL-E", TypeGenre.Drama),
-                new Movie("The Grudge, TypeGenre.Horror),
                 new Movie("Scareface", TypeGenre.Drama),
                 new Movie("Avengers", TypeGenre.Drama),
                 new Movie("The Hunt", TypeGenre.Action),

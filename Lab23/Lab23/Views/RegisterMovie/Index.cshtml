@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+@model List<Movie>
+
+<table>
+    @foreach (var movie in Model)
+    {
+        <tr>
+            <td>
+                @movie.Title
+            </td>
+            <td>
+                @movie.Genre
+            </td>
+            <td>
+                @movie.RunTime
+            </td>
+        </tr>
+    }
+</table>
+

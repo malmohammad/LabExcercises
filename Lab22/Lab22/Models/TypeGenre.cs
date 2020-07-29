@@ -7,9 +7,9 @@ namespace Lab22.Models
 {
     public enum TypeGenre
     {
-        action,
-        comedy,
-        horror,
-        drama
+        Action,
+        Comedy,
+        Horror,
+        Drama
     }
 }
