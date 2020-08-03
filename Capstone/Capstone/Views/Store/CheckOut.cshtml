@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewData["Title"] = "CheckOut";
+}
+
+@model List<StoreItems>
+
+<table class="table">
+    <thead>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <th>
+                    @product.Name
+                </th>
+                <th>
+                    @product.Price
+                </th>
+            </tr>
+        }
+    </thead>
+</table>
+<p>The total of your order is @ViewBag.Total</p>
